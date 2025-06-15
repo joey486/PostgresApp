@@ -2,6 +2,11 @@
 
 A .NET application that connects to a PostgreSQL database. This project demonstrates how to build and manage a backend service with PostgreSQL integration using .NET.
 
+ID1: 216175398
+Name1: Yosef Heifetz
+ID2: 216658492
+Name2: Yehuda Godfry
+
 ---
 
 ## Features
@@ -28,7 +33,7 @@ A .NET application that connects to a PostgreSQL database. This project demonstr
    ```bash
    git clone https://github.com/yourusername/MyDotNetPostgresProject.git
    cd MyDotNetPostgresProject
-````
+   ```
 
 2. Configure your PostgreSQL connection string in `appsettings.json`:
 
@@ -77,13 +82,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-Your Name — [your.email@example.com](mailto:your.email@example.com)
+Your Name — [yossi.heifetz06@gmail.com](mailto:yossi.heifetz06@gmail.com)
 Project Link: [https://github.com/yourusername/MyDotNetPostgresProject](https://github.com/yourusername/MyDotNetPostgresProject)
 
-```
-
----
-
-Would you like me to generate a more detailed README including usage examples, environment variables, or testing instructions?  
-Or do you want it in a different style?
-```
